@@ -1,6 +1,6 @@
 import logo from './logo.svg'
 import logo_icon from './logo_icon.svg'
-import facebook_icon from './facebook_icon.svg'
+import facebook_icon from './githublogo.png'
 import instagram_icon from './instagram_icon.svg'
 import twitter_icon from './twitter_icon.svg'
 import star_icon from './star_icon.svg'
