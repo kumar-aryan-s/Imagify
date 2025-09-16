@@ -7,8 +7,9 @@ import star_icon from './star_icon.svg'
 import rating_star from './rating_star.svg'
 import sample_img_1 from './sample_img_1.png'
 import sample_img_2 from './sample_img_2.png'
-import profile_img_1 from './profile_img_1.png'
+import profile_img_1 from './profile_img_1.jpg'
 import profile_img_2 from './profile_img_2.png'
+import profile_img_3 from './profile3_img.png'
 import step_icon_1 from './step_icon_1.svg'
 import step_icon_2 from './step_icon_2.svg'
 import step_icon_3 from './step_icon_3.svg'
@@ -62,10 +63,10 @@ export const stepsData = [
 export const testimonialsData = [
     {
         image:profile_img_1,
-        name:'Donald Jackman',
-        role:'Graphic Designer',
+        name:'Milan Garnaik',
+        role:'MBBS student',
         stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`The website has been a game changer for me as a student. It has made creating high-quality images for my projects incredibly easy and efficient.`
     },
     {
         image:profile_img_2,
@@ -75,7 +76,7 @@ export const testimonialsData = [
         text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
     },
     {
-        image:profile_img_1,
+        image:profile_img_3,
         name:'Donald Jackman',
         role:' Graphic Designer',
         stars:5,
